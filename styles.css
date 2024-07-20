@@ -17,9 +17,9 @@
 .center {
   display: block;
   margin-left: 670px;
-}
-.center1{
-  margin-left: 670px;
+  display: flex;
+  justify-content: center; 
+  align-items: center;
 }
 body{
   background-image: url('body.jpg');
